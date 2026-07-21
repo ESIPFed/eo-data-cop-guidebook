@@ -6,5 +6,5 @@ conversation about starting one, through keeping it healthy, to knowing
 when its goal has been met.
 
 It's a living, community-maintained document. See
-[Contributing](CONTRIBUTING.md) if you'd like to add or improve a
+[Contributing](https://github.com/ESIPFed/eo-data-cop-guidebook/blob/main/CONTRIBUTING.md) if you'd like to add or improve a
 chapter.
