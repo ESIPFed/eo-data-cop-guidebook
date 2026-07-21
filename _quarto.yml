@@ -1,0 +1,33 @@
+project:
+  type: book
+
+book:
+  title: "Guidebook for Earth Observation Data Communities of Practice"
+  repo-url: https://github.com/ESIPFed/eo-data-cop-guidebook
+  repo-actions: [edit, issue]
+  page-footer:
+    left: "Licensed CC BY 4.0"
+  chapters:
+    - index.md
+    - part: "Getting Started"
+      chapters:
+        - chapters/getting-started/designing-your-community.md
+        - chapters/getting-started/governance.md
+        - chapters/getting-started/recruiting-members.md
+        - chapters/getting-started/welcome-inaugural-meeting.md
+    - part: "Sustaining Momentum"
+      chapters:
+        - chapters/sustaining-momentum/running-meetings.md
+        - chapters/sustaining-momentum/communication.md
+        - chapters/sustaining-momentum/engaging-member-participation.md
+        - chapters/sustaining-momentum/working-asynchronously.md
+    - part: "Measuring Success"
+      chapters:
+        - chapters/measuring-success/longevity-assessment.md
+        - chapters/measuring-success/cooperative-research-outcomes.md
+        - chapters/measuring-success/attendance-metrics.md
+
+format:
+  html:
+    theme: cosmo
+    toc: true
