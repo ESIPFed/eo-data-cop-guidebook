@@ -9,19 +9,17 @@ Scope
 ## Scope
 ### Data Use & Management
 Scope focus: Maximizing the value, accessibility, and understanding of data.
-Data Discovery & Access: Sharing methods for querying, downloading, or accessing data (e.g., via APIs, cloud storage buckets, or institutional archives).
-Data Processing & Quality: Discussing best practices for cleaning, calibrating, formatting, and handling missing or anomalous data.
-Data Fusion: Exploring techniques for integrating disparate datasets (e.g., combining satellite observations with ground-sensor data or socioeconomic models).
-Data Governance & Ethics: Navigating data security levels, proper attribution/citations, and adopting FAIR (Findable, Accessible, Interoperable, Reusable) data principles.
+* Data Discovery & Access: Sharing methods for querying, downloading, or accessing data (e.g., via APIs, cloud storage buckets, or institutional archives).
+* Data Processing & Quality: Discussing best practices for cleaning, calibrating, formatting, and handling missing or anomalous data.
+* Data Fusion: Exploring techniques for integrating disparate datasets (e.g., combining satellite observations with ground-sensor data or socioeconomic models).
+* Data Governance & Ethics: Navigating data security levels, proper attribution/citations, and adopting FAIR (Findable, Accessible, Interoperable, Reusable) data principles.
 
 ### Sharing Research & Application Ideas
-Scope focus: Fostering scientific cross-pollination and accelerating the transition from pure research to practical application.
-Use-Case Showcases Presenting ongoing or completed projects to highlight how data is being used to solve specific scientific or societal problems.
-
-Ideation & Brainstorming: Providing a "safe space" to pitch early-stage research questions, seek feedback on experimental methodologies, or brainstorm new applications for existing datasets.
-Methodology Discussions: Debating the pros and cons of different analytical approaches (e.g., traditional statistical models vs. machine learning algorithms for specific datasets).
-
-Research-to-Operations (R2O): Sharing strategies for packaging research models so they can be adopted by operational agencies, policymakers, or end-users.
+* Scope focus: Fostering scientific cross-pollination and accelerating the transition from pure research to practical application.
+* Use-Case Showcases Presenting ongoing or completed projects to highlight how data is being used to solve specific scientific or societal problems.
+* Ideation & Brainstorming: Providing a "safe space" to pitch early-stage research questions, seek feedback on experimental methodologies, or brainstorm new applications for existing datasets.
+* Methodology Discussions: Debating the pros and cons of different analytical approaches (e.g., traditional statistical models vs. machine learning algorithms for specific datasets).
+* Research-to-Operations (R2O): Sharing strategies for packaging research models so they can be adopted by operational agencies, policymakers, or end-users.
 
 ### Sharing Workflows & Tooling
 Scope focus: Reducing duplicated effort and standardizing technical approaches.
@@ -32,11 +30,12 @@ Tool Evaluation: Collectively reviewing and recommending open-source libraries, 
 
 ### Building Collaborations
 Scope focus: Connecting people across silos to build high-functioning, interdisciplinary teams.
-Matchmaking: Connecting individuals with domain expertise (e.g., a hydrologist) with individuals possessing technical expertise (e.g., a machine learning engineer) to tackle joint problems.
-Proposal Teaming: Identifying opportunities for joint funding proposals, white papers, or co-authored publications.
-Mentorship & Skill Transfer: Creating pathways for senior researchers/engineers to mentor junior staff or students in specific technical or scientific domains.
-Breaking Silos: Actively inviting participation from different departments, partner institutions, and external stakeholders to broaden the community's perspective.
-Roles & Responsibilities
+* Matchmaking: Connecting individuals with domain expertise (e.g., a hydrologist) with individuals possessing technical expertise (e.g., a machine learning engineer) to tackle joint problems.
+* Proposal Teaming: Identifying opportunities for joint funding proposals, white papers, or co-authored publications.
+* Mentorship & Skill Transfer: Creating pathways for senior researchers/engineers to mentor junior staff or students in specific technical or scientific domains.
+* Breaking Silos: Actively inviting participation from different departments, partner institutions, and external stakeholders to broaden the community's perspective.
+
+## Roles & Responsibilities
 To ensure sustainability without creating bureaucratic bottlenecks, the CoP operates with a lightweight governance model:
 Facilitators / Co-Leads: Guide the strategic vision of the CoP. They ensure discussions remain aligned with the charter, foster engagement, and advocate for the community’s needs to broader stakeholders.
 Meeting Coordinators: Handle the logistics of the CoP. Responsibilities include scheduling meetings, managing calendar invites, organizing guest speakers, and ensuring notes or recordings are distributed.
