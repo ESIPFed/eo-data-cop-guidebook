@@ -20,9 +20,9 @@ Be inclusive of everyone in an interaction, respecting and facilitating people�
 •	Living in a different time zone
 •	Facing other challenges to participate
 If you find yourself dominating a discussion, it is especially important to step back, encourage other voices to join in, and listen actively to them.
-Understand Different Perspectives
+## Understand Different Perspectives
 Our goal should not be to “win” every disagreement or argument. A more productive goal is to be open to ideas that make our own ideas better. Strive to be an example for inclusive thinking. “Winning” is when different perspectives make our work richer and stronger.
-Appreciate and Accommodate Our Similarities and Differences
+## Appreciate and Accommodate Our Similarities and Differences
 We come from many cultures and backgrounds. Cultural differences can encompass everything from official religious observances to personal habits to clothing. Be respectful of people with different cultural practices, attitudes and beliefs. Work to eliminate your own biases, prejudices and discriminatory practices. Think of others’ perspectives, contributions, and needs from their point of view. Use preferred titles (including pronouns) and the appropriate tone of voice. Respect people’s right to privacy and confidentiality. Be open to learning from and educating others as well as educating yourself; it is unrealistic to expect everyone to know the cultural practices of every ethnic and cultural group, but everyone needs to recognize one’s native culture is only part of positive interactions.
-Lead by Example
+## Lead by Example
 By matching your actions with your words, you become a person others want to follow. Your actions influence others to behave and respond in ways that are valuable and appropriate for our organizational outcomes. Design your community and your work for inclusion. Hold yourself and others accountable for inclusive behaviors. Make decisions based on the highest good for our community.
